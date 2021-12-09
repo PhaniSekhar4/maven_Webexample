@@ -48,11 +48,6 @@
       <artifactId>maven-compiler-plugin</artifactId>
       <version>3.8.1</version>
 </plugin>
-<plugin>
-      <groupId>org.sonarsource.scanner.maven</groupId>
-      <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.3.0.603</version>
-</plugin>
 		<!-- Maven Plugin for Jetty -->
 <!-- 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
